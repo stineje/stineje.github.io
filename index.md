@@ -5,16 +5,17 @@ tagline: Open-source Tools for VLSI
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+[Skywater Technology](https://www.skywater.com) has started a process
+thanks to partners [eFabless] (http://www.efabless.com) and
+[Google](http://www.google.com) to revolutionize how we make
+semiconductors.  The process here is an attempt to provide a simple way to make a
+semiconductors using open-source tools.  In other words, we are
+democratizing hardware design
+through open-source chip design tools and methodology.
 
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
+For this process we have created several tools that help with this
+process.  We welcome your feedback as well as any comments to help
+with this process.
 
 - [Overview](pages/overview.html)
 - [Making an independent website](pages/independent_site.html)
@@ -24,11 +25,10 @@ read any of the other things, such as
 - [Testing your site locally](pages/local_test.html)
 - [Resources](pages/resources.html)
 
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
+If anything here is confusing (or _wrong_!), or if we have missed
+important details, please [submit an
+issue](https://github.com/stineje/issues).
+
 
 
 
