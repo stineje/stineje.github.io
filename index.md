@@ -6,7 +6,7 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
 [Skywater Technology](https://www.skywater.com) has started a process
-thanks to partners [eFabless] (http://www.efabless.com) and
+thanks to partners [eFabless](http://www.efabless.com) and
 [Google](http://www.google.com) to revolutionize how we make
 semiconductors.  The process here is an attempt to provide a simple way to make a
 semiconductors using open-source tools.  In other words, we are
