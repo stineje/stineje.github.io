@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## VLSI Computer Architecture Research Group at Oklahoma State University
 
 You can use the [editor on GitHub](https://github.com/stineje/stineje.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
