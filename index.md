@@ -26,8 +26,7 @@ with this process.
 - [Resources](pages/resources.html)
 
 If anything here is confusing (or _wrong_!), or if we have missed
-important details, please [submit an
-issue](https://github.com/stineje/issues).
+important details, please [contact us](mailto:james.stine@okstate.edu).
 
 
 
