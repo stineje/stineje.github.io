@@ -4,7 +4,7 @@ title: Resources
 description: Resources related to GitHub Pages websites
 ---
 
-This is a minimal tutorial to get you started. There are lots of
+These are links of great resources and tools. There are lots of
 other resources.
 
 - [Skywater Technology](https://www.skywatertechnology.com)
