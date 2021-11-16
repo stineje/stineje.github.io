@@ -18,11 +18,7 @@ process.  We welcome your feedback as well as any comments to help
 with this process.
 
 - [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
+- [Tutorial for Layout with Magic](https://docs.google.com/document/d/1hSLKsz9xcEJgAMmYYer5cDwvPqas9_JGRUAgEORx1Yw/edit?usp=sharing)
 - [Resources](pages/resources.html)
 
 If anything here is confusing (or _wrong_!), or if we have missed
