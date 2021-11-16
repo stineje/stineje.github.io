@@ -26,6 +26,7 @@ with this process.
 
 - [Overview](pages/overview.html)
 - [Tutorial for Layout with Magic](https://docs.google.com/document/d/1hSLKsz9xcEJgAMmYYer5cDwvPqas9_JGRUAgEORx1Yw/edit?usp=sharing)
+- [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders)
 - [Resources](pages/resources.html)
 
 If anything here is confusing (or _wrong_!), or if we have missed
