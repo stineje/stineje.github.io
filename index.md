@@ -1,6 +1,6 @@
 ---
 layout: page
-title: simple site
+title: Oklahoma State University VLSI Tools for Skywater Technology
 tagline: Easy websites with GitHub Pages
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
