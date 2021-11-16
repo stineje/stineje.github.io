@@ -5,7 +5,8 @@ tagline: Open-sourcing Tools for VLSI
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-![h](OSU Brand_Primary_021.jpg =100x20)
+<img src="OSU Brand_Primary_021.jpg" width="100" />
+
 
 [Skywater Technology](https://www.skywatertechnology.com) has started a process
 thanks to partners [eFabless](http://www.efabless.com) and
