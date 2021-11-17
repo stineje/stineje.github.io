@@ -2,7 +2,7 @@
 layout: page
 title: VLSI Research 
 tagline: Open-sourcing Tools for VLSI
-description: Minimal tutorial on making a simple website with GitHub Pages
+description: Oklahoma State University VLSI Research
 ---
 
 <img src="OSU Brand_Primary_021.jpg" width="150"/>
