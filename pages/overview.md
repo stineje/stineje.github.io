@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Overview of GitHub Pages
-description: Overview of construction of a website with GitHub Pages
+title: Overview of Skywater Technology 130nm Process
+description: Overview of construction of the Skywater Technology 130nm Process
 ---
 
 The present site is simple, with a style derived from
