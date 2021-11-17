@@ -26,6 +26,7 @@ with this process.
 
 - [Overview](pages/overview.html)
 - [Tutorial for Layout with Magic](https://docs.google.com/document/d/1hSLKsz9xcEJgAMmYYer5cDwvPqas9_JGRUAgEORx1Yw/edit?usp=sharing)
+- [YouTube Presentation on SKY130 standard-cells](https://youtu.be/Svus4uQ_CAA)
 - [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders)
 - [Resources](pages/resources.html)
 
