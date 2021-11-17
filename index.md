@@ -27,11 +27,11 @@ with this process.
 - [Overview](pages/overview.html)
 - [Tutorial for Layout with Magic](https://docs.google.com/document/d/1hSLKsz9xcEJgAMmYYer5cDwvPqas9_JGRUAgEORx1Yw/edit?usp=sharing)
 - [YouTube Presentation on SKY130 standard-cells](https://youtu.be/Svus4uQ_CAA)
-- [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders)
-- [OSU Standard Cell Libraries]
+- [Oklahoma State University (OSU) Standard Cell Libraries for SKY130]
   * [12 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t12)
   * [15 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t15)
   * [18 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t18)
+- [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders)
 - [Resources](pages/resources.html)
 
 If anything here is confusing (or _wrong_!), or if we have missed
