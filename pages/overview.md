@@ -28,7 +28,7 @@ verification (but this is not guaranteed).
 [Google CodeSearch interface](https://cs.opensource.google/skywater-pdk)
 [FOSS EDA Tools](https://foss-eda-tools.googlesource.com/skywater-pdk/)
 
--- SKY130 Process Node
+- SKY130 Process Node
 The SKY130 is a mature 180nm-130nm hybrid technology originally
 developed internally by Cypress Semiconductor before being spun out
 into SkyWater Technology and made accessible to general
@@ -53,7 +53,7 @@ interconnect, SONOS functionality, MiM capacitors, and more). This
 provides the designer with a wide range of flexibility in design
 choices.
 
--- About SkyWater Technology Foundry
+- About SkyWater Technology Foundry
 
 SkyWater is a solely U.S.-based and U.S.-owned, DoD-accredited,
 Trusted Foundry. Through its Technology Foundry model, SkyWater
