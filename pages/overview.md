@@ -11,6 +11,15 @@ fabrication and understanding of the semiconductor process.  Because
 it is free, this allows the creation of tools that are free and
 open-source to proliferate the understanding of the process.
 
+The SkyWater Open Source PDK is a collaboration between Google and
+SkyWater Technology Foundry to provide a fully open source Process
+Design Kit and related resources, which can be used to create
+manufacturable designs at SkyWater’s facility.
+
+As of May 2020, this repository is targeting the SKY130 process
+node. If the SKY130 process node release is successful then in the
+future more advanced technology nodes may become available.
+
 The Skywater Technology 130nm processor or SKY130 has 5 layers of
 metal to allow routing.  It also allows a sixth layer called local
 interconnect (li).  However, the li layer despite being close to the
@@ -88,19 +97,19 @@ The SkyWater Open Source PDK is released under the Apache 2.0 license.
 The copyright details (which should also be found at the top of every
 file) are;
 
- Copyright 2020 SkyWater PDK Authors
+    Copyright 2020 SkyWater PDK Authors
 
- Licensed under the Apache License, Version 2.0 (the "License");
- you may not use this file except in compliance with the License. 
- You may obtain a copy of the License at
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License. 
+    You may obtain a copy of the License at
 
     http://www.apache.org/licenses/LICENSE-2.0
 
- Unless required by applicable law or agreed to in writing, software
- distributed under the License is distributed on an "AS IS" BASIS,
- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- See the License for the specific language governing permissions and
- limitations under the License.
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 
 
 
