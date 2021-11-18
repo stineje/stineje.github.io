@@ -34,10 +34,10 @@ PDK is not intended to be used for production settings at this current
 time. It should be usable for doing test chips and initial design
 verification (but this is not guaranteed).
 
-[SKY130 PDK on GitHub](https://github.com/google/skywater-pdk)
-[Google CodeSearch interface](https://cs.opensource.google/skywater-pdk)
-[FOSS EDA Tools](https://foss-eda-tools.googlesource.com/skywater-pdk/)
-[SKY130 Documentation](https://skywater-pdk.readthedocs.io/en/main/)
+- [SKY130 PDK on GitHub](https://github.com/google/skywater-pdk)
+- [Google CodeSearch interface](https://cs.opensource.google/skywater-pdk)
+- [FOSS EDA Tools](https://foss-eda-tools.googlesource.com/skywater-pdk/)
+- [SKY130 Documentation](https://skywater-pdk.readthedocs.io/en/main/)
 
 ## SKY130 Process Node
 
