@@ -31,7 +31,8 @@ with this process.
   * [12 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t12)
   * [15 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t15)
   * [18 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t18)
-- [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders)
+- [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders) - made by our Ph.D. candidate Teo Ene
+- [AES Implementations in SystemVerilog](https://github.com/Open-Source-Hardware-Initiative/AES) - made by our Ph.D. candidate Ryan Swann
 - [Resources](pages/resources.html)
 
 If anything here is confusing (or _wrong_!), or if we have missed
