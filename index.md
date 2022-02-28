@@ -33,6 +33,7 @@ with this process.
   * [18 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t18)
 - [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders) - made by our Ph.D. candidate Teo Ene
 - [AES Implementations in SystemVerilog](https://github.com/Open-Source-Hardware-Initiative/AES) - made by our Ph.D. candidate Ryan Swann
+- [DES Implementations in SystemVerilog](https://github.com/stineje/DES)
 - [Resources](pages/resources.html)
 
 If anything here is confusing (or _wrong_!), or if we have missed
