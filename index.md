@@ -36,7 +36,7 @@ with this process.
   * [12 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t12)
   * [15 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t15)
   * [18 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t18)
-- [Oklahoma State University (OSU) Standard Cell Libraries for GF180MCU]
+- [Oklahoma State University (OSU) Standard Cell Libraries for GF180]
   * [12 Track OSU GF180MCU Library](https://github.com/google/globalfoundries-pdk-libs-gf180mcu_osu_sc)  
 - [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders) - understanding prefix adders better (a tool made by our Ph.D. candidate Teo Ene)
 - [Stick Diagramming Tool](https://stixu.io/) - made by Nick Overacker who took our VLSI class and made a super tool!
