@@ -20,6 +20,14 @@ semiconductors using open-source tools.  In other words, we are
 democratizing hardware design
 through open-source chip design tools and methodology.
 
+[Global Foundries](https://www.skywatertechnology.com) has started a process
+thanks to partners [Efabless](http://www.efabless.com) and
+[Google](http://www.google.com) to revolutionize how we make
+semiconductors.  The process here is an attempt to provide a simple way to make a
+semiconductors using open-source tools.  In other words, we are
+democratizing hardware design
+through open-source chip design tools and methodology.
+
 For this process we have created several tools that help with this
 process.  We welcome your feedback as well as any comments to help
 with this process.
