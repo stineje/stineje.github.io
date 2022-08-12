@@ -38,7 +38,7 @@ with this process.
   * [18 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t18)
 - [Oklahoma State University (OSU) Standard Cell Libraries for GF180]
   * [12 Track OSU GF180MCU Library](https://github.com/google/globalfoundries-pdk-libs-gf180mcu_osu_sc)  
-- [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders) - understanding prefix adders better (a tool made by our Ph.D. candidate Teo Ene)
+- [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders) - understanding prefix adders and sparsity better and HDL generation with prefix adders (a tool made by our Ph.D. candidate Teo Ene)
 - [Stick Diagramming Tool](https://stixu.io/) - made by Nick Overacker who took our VLSI class and made a super tool!
 - [AES Implementations in SystemVerilog](https://github.com/Open-Source-Hardware-Initiative/AES) - open-source implementations of AES by our Ph.D. candidate Ryan Swann
 - [DES Implementations in SystemVerilog](https://github.com/stineje/DES) - open-source implementations in SystemVerilog for S-DES and DES used in Digital Logic Design courses at Oklahoma State University.
