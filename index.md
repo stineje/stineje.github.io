@@ -34,7 +34,7 @@ with this process.
 - [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders) - made by our Ph.D. candidate Teo Ene
 - [Stick Diagramming Tool](https://stixu.io/) - made by Nick Overacker who took our VLSI class and made a super tool!
 - [AES Implementations in SystemVerilog](https://github.com/Open-Source-Hardware-Initiative/AES) - made by our Ph.D. candidate Ryan Swann
-- [DES Implementations in SystemVerilog](https://github.com/stineje/DES)
+- [DES Implementations in SystemVerilog](https://github.com/stineje/DES) - open-source implementations in SystemVerilog for S-DES and DES used in Digital Logic Design courses at Oklahoma State University.
 - [Resources](pages/resources.html)
 
 If anything here is confusing (or _wrong_!), or if we have missed
