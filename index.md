@@ -1,7 +1,7 @@
 ---
 layout: page
-title: VLSI Computer Architecture Research Group 
-tagline: VLSI/Computer Architecture Research
+title: VLSI Research at Oklahoma State University
+tagline: Open-sourcing Tools for VLSI
 description: Oklahoma State University VLSI Research
 ---
 
