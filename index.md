@@ -20,7 +20,7 @@ semiconductors using open-source tools.  In other words, we are
 democratizing hardware design
 through open-source chip design tools and methodology.
 
-[Global Foundries](https://opensource.googleblog.com/2022/08/GlobalFoundries-joins-Googles-open-source-silicon-initiative.html) has
+[GlobalFoundries](https://opensource.googleblog.com/2022/08/GlobalFoundries-joins-Googles-open-source-silicon-initiative.html) has
 also partnered with [Google](http://www.google.com)
 to revolutionize how we make
 semiconductors with open-source tools.  
