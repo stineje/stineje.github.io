@@ -2,7 +2,7 @@
 layout: page
 title: VLSI Research at Oklahoma State University
 tagline: Open-sourcing Tools for VLSI
-description: Oklahoma State University VLSI Research
+description: Oklahoma State University VLSI Computer Architecture Research
 ---
 
 <img src="OSU Brand_Primary_021.jpg" width="150"/>
