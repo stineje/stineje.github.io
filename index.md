@@ -36,8 +36,8 @@ with this process.
   * [12 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t12)
   * [15 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t15)
   * [18 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t18)
-- [Oklahoma State University (OSU) Standard Cell Libraries for SKY130 RH by Design]
-  * [Open Source Radiation Hardened Standard-Cell Library](https://github.com/stineje/sky130RHLib)
+- [Oklahoma State University (OSU) Standard Cell Libraries for SKY130 Radiation Hardened by Design (RHBD)]
+  * [Open Source Radiation Hardened Standard-Cell Library](https://github.com/stineje/sky130RHBDLib)
 - [Oklahoma State University (OSU) Standard Cell Libraries for GF180]
   * [12 Track OSU GF180MCU Library](https://github.com/google/globalfoundries-pdk-libs-gf180mcu_osu_sc)  
 - [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders) - understanding prefix adders and sparsity better as well as HDL generation (a tool made by our Ph.D. candidate Teo Ene)
