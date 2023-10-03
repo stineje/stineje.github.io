@@ -32,7 +32,7 @@ with this process.
 - [Overview](pages/overview.html)
 - [Tutorial for Layout with Magic](https://docs.google.com/document/d/1hSLKsz9xcEJgAMmYYer5cDwvPqas9_JGRUAgEORx1Yw/edit?usp=sharing)
 - [YouTube Presentation on SKY130 standard-cells](https://youtu.be/Svus4uQ_CAA)
-- [Wally RISC-V Architecture](https://github.com/openhwgroup/cvw) - partnership with Harvey Mudd College and UNLV on a configurable RISC-V architecture with many extensions
+- [Wally RISC-V Architecture](https://github.com/openhwgroup/cvw) - partnership with Harvey Mudd College and UNLV on a configurable RISC-V architecture with many extensions (OpenHW Group Addition)
 - [CharLib](https://github.com/stineje/CharLib) - work-in-progress Python-based Characterization Tool for use with standard-cell libraries
 - [Oklahoma State University (OSU) Standard Cell Libraries for SKY130]
   * [12 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t12)
