@@ -44,7 +44,7 @@ with this process.
   * [12 Track OSU GF180MCU Library](https://github.com/google/globalfoundries-pdk-libs-gf180mcu_osu_sc)  
 - [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders) - understanding prefix adders and sparsity better as well as HDL generation (a tool made by our Ph.D. candidate Teo Ene)
 - [CharLib] - Open-Source Standard-Cell Library Characterizer in Python
-  * [CharLib](https://github.com/stineje/CharLib)  
+  * [CharLib - An open-source standard cell library characterizer](https://github.com/stineje/CharLib)  
 - [Stick Diagramming Tool](https://stixu.io/) - made by Nick Overacker who took our VLSI class and made a super tool!
   * [Stick Diagramming Tool Source](https://github.com/NickOveracker/StickDiagrammer)  
 - [AES Implementations in SystemVerilog](https://github.com/Open-Source-Hardware-Initiative/AES) - open-source implementations of AES by our Ph.D. candidate Ryan Swann
