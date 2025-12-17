@@ -34,6 +34,10 @@ with this process.
 - [YouTube Presentation on SKY130 standard-cells](https://youtu.be/Svus4uQ_CAA)
 - [Wally RISC-V Architecture](https://github.com/openhwgroup/cvw) - partnership with Harvey Mudd College and UNLV on a configurable RISC-V architecture with many extensions (OpenHW Group Addition)
 - [CharLib](https://github.com/stineje/CharLib) - work-in-progress Python-based Characterization Tool for use with standard-cell libraries
+- [Oklahoma State University (OSU) Standard Cell Libraries originally done for MOSIS SCMOS]
+  * [MOSIS_SCMOS](https://github.com/stineje/MOSIS_SCMOS)
+- [Oklahoma State University (OSU) Standard Cell Libraries work for Semiconductor Research Corporation (SRC)]
+  * [FreePDK45](https://github.com/stineje/FreePDK_SRC)
 - [Oklahoma State University (OSU) Standard Cell Libraries for SKY130]
   * [12 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t12)
   * [15 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t15)
