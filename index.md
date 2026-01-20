@@ -32,7 +32,7 @@ with this process.
 - [Overview](pages/overview.html)
 - [Tutorial for Layout with Magic](https://docs.google.com/document/d/1hSLKsz9xcEJgAMmYYer5cDwvPqas9_JGRUAgEORx1Yw/edit?usp=sharing)
 - [YouTube Presentation on SKY130 standard-cells](https://youtu.be/Svus4uQ_CAA)
-- [RVSoCD](https://pages.hmc.edu/harris/ddca/rvsocd.html) - new textbook published by Elsevier
+- [RVSoCD](https://pages.hmc.edu/harris/ddca/rvsocd.html) - new System on Chip textbook published by Elsevier
 - [RVSoCD at Amazon](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989) Purchase through Amazon
 - [RVSoCD at Elsevier](https://shop.elsevier.com/books/risc-v-system-on-chip-design/harris/978-0-323-99498-9) Elsevier's Site
 - [Wally RISC-V Architecture](https://github.com/openhwgroup/cvw) - partnership with Harvey Mudd College and UNLV on a configurable RISC-V architecture with many extensions (OpenHW Group Addition)
