@@ -37,7 +37,7 @@ with this process.
   * [RVSoCD at Amazon](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989) Purchase through Amazon
   * [RVSoCD at Elsevier](https://shop.elsevier.com/books/risc-v-system-on-chip-design/harris/978-0-323-99498-9) Elsevier's Site
 - [Wally RISC-V Architecture](https://github.com/openhwgroup/cvw) - partnership with Harvey Mudd College and UNLV on a configurable RISC-V architecture with many extensions (OpenHW Group Addition)
-- [CharLib](https://github.com/stineje/CharLib) - work-in-progress Python-based Characterization Tool for use with standard-cell libraries
+- [CharLib](https://github.com/stineje/CharLib) - Python-based Characterization Tool for use with standard-cell libraries
 - [Drop-In-JTAG](https://github.com/stineje/Drop-In-JTAG) - a lightweight, modular JTAG debugging interface that can be easily integrated into an existing HDL design to provide immediate boundary scan and debugging capability with minimal modification to the original processor or system architecture.
 - [Oklahoma State University (OSU) Standard Cell Libraries originally done for MOSIS SCMOS]
   * [MOSIS_SCMOS](https://github.com/stineje/MOSIS_SCMOS)
@@ -52,8 +52,6 @@ with this process.
 - [Oklahoma State University (OSU) Standard Cell Libraries for GF180]
   * [12 Track OSU GF180MCU Library](https://github.com/google/globalfoundries-pdk-libs-gf180mcu_osu_sc)  
 - [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders) - understanding prefix adders and sparsity better as well as HDL generation (a tool made by our Ph.D. candidate Teo Ene)
-- [CharLib] - Open-Source Standard-Cell Library Characterizer in Python
-  * [CharLib - An open-source standard cell library characterizer](https://github.com/stineje/CharLib)  
 - [Stick Diagramming Tool](https://stixu.io/) - made by Nick Overacker who took our VLSI class and made a super tool!
   * [Stick Diagramming Tool Source](https://github.com/NickOveracker/StickDiagrammer)  
 - [AES Implementations in SystemVerilog](https://github.com/Open-Source-Hardware-Initiative/AES) - open-source implementations of AES by our Ph.D. candidate Ryan Swann
