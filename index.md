@@ -2,12 +2,12 @@
 layout: page
 title: VLSI Research at Oklahoma State University
 tagline: Open-sourcing Tools for VLSI
-description: Oklahoma State University VLSI Computer Architecture Research
+description: University of Nebraska-Lincoln VLSI Computer Architecture Research
 ---
 
 <img src="OSU Brand_Primary_021.jpg" width="150"/>
 
-Who are we?  We are a research group at Oklahoma State University that
+Who are we?  We are a research group at University of Nebraska-Lincoln that
 specialize in the area of Very Large Scale Integration (VLSI),
 computer architecture/arithmetic, memory architectures, and Electronic
 Design Automation (EDA) design flows.
@@ -39,17 +39,17 @@ with this process.
 - [Wally RISC-V Architecture](https://github.com/openhwgroup/cvw) - partnership with Harvey Mudd College and UNLV on a configurable RISC-V architecture with many extensions (OpenHW Group Addition)
 - [CharLib](https://github.com/stineje/CharLib) - Python-based Characterization Tool for use with standard-cell libraries
 - [Drop-In-JTAG](https://github.com/stineje/Drop-In-JTAG) - a lightweight, modular JTAG debugging interface that can be easily integrated into an existing HDL design to provide immediate boundary scan and debugging capability with minimal modification to the original processor or system architecture.
-- [Oklahoma State University (OSU) Standard Cell Libraries originally done for MOSIS SCMOS]
+- [University of Nebraska-Lincoln (UNL) Standard Cell Libraries originally done for MOSIS SCMOS]
   * [MOSIS_SCMOS](https://github.com/stineje/MOSIS_SCMOS)
-- [Oklahoma State University (OSU) Standard Cell Libraries work for Semiconductor Research Corporation (SRC)]
+- [University of Nebraska-Lincoln (UNL) Standard Cell Libraries work for Semiconductor Research Corporation (SRC)]
   * [FreePDK45](https://github.com/stineje/FreePDK_SRC)
-- [Oklahoma State University (OSU) Standard Cell Libraries for SKY130]
+- [University of Nebraska-Lincoln (UNL) Standard Cell Libraries for SKY130]
   * [12 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t12)
   * [15 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t15)
   * [18 Track OSU SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t18)
-- [Oklahoma State University (OSU) Standard Cell Libraries for SKY130 Radiation Hardened by Design (RHBD)]
+- [University of Nebraska-Lincoln (UNL) Standard Cell Libraries for SKY130 Radiation Hardened by Design (RHBD)]
   * [Open Source Radiation Hardened Standard-Cell Library](https://github.com/stineje/sky130RHBDLib)
-- [Oklahoma State University (OSU) Standard Cell Libraries for GF180]
+- [University of Nebraska-Lincoln (UNL) Standard Cell Libraries for GF180]
   * [12 Track OSU GF180MCU Library](https://github.com/google/globalfoundries-pdk-libs-gf180mcu_osu_sc)  
 - [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders) - understanding prefix adders and sparsity better as well as HDL generation (a tool made by our Ph.D. candidate Teo Ene)
 - [Stick Diagramming Tool](https://stixu.io/) - made by Nick Overacker who took our VLSI class and made a super tool!
