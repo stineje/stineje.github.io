@@ -1,11 +1,11 @@
 ---
 layout: page
-title: VLSI Research at Oklahoma State University
+title: VLSI Research at University of Nebraska-Lincoln
 tagline: Open-sourcing Tools for VLSI
 description: University of Nebraska-Lincoln VLSI Computer Architecture Research
 ---
 
-<img src="OSU Brand_Primary_021.jpg" width="150"/>
+<img src="nebraska-n.jpg" width="150"/>
 
 Who are we?  We are a research group at University of Nebraska-Lincoln that
 specialize in the area of Very Large Scale Integration (VLSI),
