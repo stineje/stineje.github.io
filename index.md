@@ -1,66 +1,49 @@
 ---
 layout: page
-title: VLSI Research at University of Nebraska-Lincoln
-tagline: Open-sourcing Tools for VLSI
-description: University of Nebraska-Lincoln VLSI Computer Architecture Research
+title: VLSI Research at the University of Nebraska–Lincoln
+tagline: Open-Source Tools for VLSI
+description: VLSI, computer architecture, and open-source chip design research at the University of Nebraska–Lincoln.
 ---
 
-<img src="nebraska-n.jpg" width="150"/>
+<img src="nebraska-n.jpg" width="150" alt="Nebraska N logo">
 
-Who are we?  We are a research group at University of Nebraska-Lincoln that
-specialize in the area of Very Large Scale Integration (VLSI),
-computer architecture/arithmetic, memory architectures, and Electronic
-Design Automation (EDA) design flows.
+We are a research group at the University of Nebraska–Lincoln working in very-large-scale integration (VLSI), computer architecture and arithmetic, memory systems, and electronic design automation (EDA). We develop open-source tools, libraries, and teaching materials that make it easier to design, verify, and implement integrated circuits.
 
-[Skywater Technology](https://www.skywatertechnology.com) has started a process
-thanks to partners [Efabless](http://www.efabless.com) and
-[Google](http://www.google.com) to revolutionize how we make
-semiconductors.  The process here is an attempt to provide a simple way to make a
-semiconductors using open-source tools.  In other words, we are
-democratizing hardware design
-through open-source chip design tools and methodology.
+Open process design kits such as [SkyWater SKY130](https://www.skywatertechnology.com) and [GlobalFoundries GF180](https://opensource.googleblog.com/2022/08/GlobalFoundries-joins-Googles-open-source-silicon-initiative.html) help make chip design more accessible to students, researchers, and independent designers. Our projects build on open silicon efforts involving SkyWater, GlobalFoundries, Google, and Efabless.
 
-[GlobalFoundries](https://opensource.googleblog.com/2022/08/GlobalFoundries-joins-Googles-open-source-silicon-initiative.html) has
-also partnered with [Google](http://www.google.com)
-to revolutionize how we make
-semiconductors with open-source tools.  
+## Getting started
 
-For this process we have created several tools that help with this
-process.  We welcome your feedback as well as any comments to help
-with this process.
+- [Project overview](pages/overview.html)
+- [Layout tutorial using Magic](https://docs.google.com/document/d/1hSLKsz9xcEJgAMmYYer5cDwvPqas9_JGRUAgEORx1Yw/edit?usp=sharing)
+- [Video presentation on SKY130 standard cells](https://youtu.be/Svus4uQ_CAA)
+- [Additional resources](pages/resources.html)
 
-- [Overview](pages/overview.html)
-- [Tutorial for Layout with Magic](https://docs.google.com/document/d/1hSLKsz9xcEJgAMmYYer5cDwvPqas9_JGRUAgEORx1Yw/edit?usp=sharing)
-- [YouTube Presentation on SKY130 standard-cells](https://youtu.be/Svus4uQ_CAA)
-- [RVSoCD - RISC-V System-on-Chip Design textbook] 
-  * [RVSoCD Webpage](https://pages.hmc.edu/harris/ddca/rvsocd.html) - new System on Chip textbook published by Elsevier
-  * [RVSoCD at Amazon](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989) Purchase through Amazon
-  * [RVSoCD at Elsevier](https://shop.elsevier.com/books/risc-v-system-on-chip-design/harris/978-0-323-99498-9) Elsevier's Site
-- [Wally RISC-V Architecture](https://github.com/openhwgroup/cvw) - partnership with Harvey Mudd College and UNLV on a configurable RISC-V architecture with many extensions (OpenHW Group Addition)
-- [CharLib](https://github.com/stineje/CharLib) - Python-based Characterization Tool for use with standard-cell libraries
-- [Drop-In-JTAG](https://github.com/stineje/Drop-In-JTAG) - a lightweight, modular JTAG debugging interface that can be easily integrated into an existing HDL design to provide immediate boundary scan and debugging capability with minimal modification to the original processor or system architecture.
-- [University of Nebraska-Lincoln (UNL) Standard Cell Libraries originally done for MOSIS SCMOS]
-  * [MOSIS_SCMOS](https://github.com/stineje/MOSIS_SCMOS)
-- [University of Nebraska-Lincoln (UNL) Standard Cell Libraries work for Semiconductor Research Corporation (SRC)]
-  * [FreePDK45](https://github.com/stineje/FreePDK_SRC)
-- [University of Nebraska-Lincoln (UNL) Standard Cell Libraries for SKY130]
-  * [12 Track UNL SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t12)
-  * [15 Track UNL SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t15)
-  * [18 Track UNL SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t18)
-- [University of Nebraska-Lincoln (UNL) Standard Cell Libraries for SKY130 Radiation Hardened by Design (RHBD)]
-  * [Open Source Radiation Hardened Standard-Cell Library](https://github.com/stineje/sky130RHBDLib)
-- [University of Nebraska-Lincoln (UNL) Standard Cell Libraries for GF180]
-  * [12 Track UNL GF180MCU Library](https://github.com/google/globalfoundries-pdk-libs-gf180mcu_osu_sc)  
-- [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders) - understanding prefix adders and sparsity better as well as HDL generation (a tool made by our Ph.D. candidate Teo Ene)
-- [Stick Diagramming Tool](https://stixu.io/) - made by Nick Overacker who took our VLSI class and made a super tool!
-  * [Stick Diagramming Tool Source](https://github.com/NickOveracker/StickDiagrammer)  
-- [AES Implementations in SystemVerilog](https://github.com/Open-Source-Hardware-Initiative/AES) - open-source implementations of AES by our Ph.D. candidate Ryan Swann
-- [DES Implementations in SystemVerilog](https://github.com/stineje/DES) - open-source implementations in SystemVerilog for S-DES and DES used in Digital Logic Design courses at Oklahoma State University.
-- [Resources](pages/resources.html)
+## RISC-V design and verification
 
-If anything here is confusing (or _wrong_!), or if we have missed
-important details, please [contact us](mailto:james.stine@okstate.edu).
+- [*RISC-V System-on-Chip Design*](https://pages.hmc.edu/harris/ddca/rvsocd.html) is an Elsevier textbook with an accompanying open-source processor project. The book is available from [Elsevier](https://shop.elsevier.com/books/risc-v-system-on-chip-design/harris/978-0-323-99498-9) and [Amazon](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989).
+- [CORE-V Wally](https://github.com/openhwfoundation/cvw) is a configurable RISC-V processor with support for multiple ISA extensions. Developed in collaboration with Harvey Mudd College and UNLV, it provides a working example of processor design and verification in SystemVerilog.
 
+## Design and teaching tools
 
+- [CharLib](https://github.com/stineje/CharLib) is a Python tool for characterizing standard-cell libraries.
+- [Drop-In JTAG](https://github.com/stineje/Drop-In-JTAG) adds a modular JTAG interface for boundary scan and debugging to an existing HDL design.
+- [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders), developed by Teo Ene, lets users explore prefix adder structures and sparsity and generate HDL.
+- [Stick Diagramming Tool](https://stixu.io/), developed by Nick Overacker after taking our VLSI course, lets users draw stick diagrams in a browser. The [source code](https://github.com/NickOveracker/StickDiagrammer) is available on GitHub.
+- [AES in SystemVerilog](https://github.com/Open-Source-Hardware-Initiative/AES) contains open-source AES implementations by Ryan Swann.
+- [DES in SystemVerilog](https://github.com/stineje/DES) contains S-DES and DES implementations used in digital logic design courses at Oklahoma State University.
 
+## Standard-cell libraries
+
+| Process | Libraries |
+| --- | --- |
+| MOSIS SCMOS | [MOSIS SCMOS](https://github.com/stineje/MOSIS_SCMOS) |
+| FreePDK45 | [FreePDK45 library developed for SRC](https://github.com/stineje/FreePDK_SRC) |
+| SkyWater SKY130 | [12-track](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t12), [15-track](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t15), and [18-track](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t18) |
+| SkyWater SKY130, radiation hardened by design | [SKY130 RHBD standard-cell library](https://github.com/stineje/sky130RHBDLib) |
+| GlobalFoundries GF180MCU | [12-track GF180MCU library](https://github.com/google/globalfoundries-pdk-libs-gf180mcu_osu_sc) |
+
+## Contact
+
+We welcome questions, feedback, and corrections. Please reach out through
+[James Stine’s UNL faculty page](https://engineering.unl.edu/ece/person/james-stine/).
 
