@@ -53,9 +53,10 @@ with this process.
   * [18 Track UNL SKY130 Library](https://foss-eda-tools.googlesource.com/skywater-pdk/libs/sky130_osu_sc_t18)
 - [University of Nebraska-Lincoln (UNL) Standard Cell Libraries for SKY130 Radiation Hardened by Design (RHBD)]
   * [Open Source Radiation Hardened Standard-Cell Library](https://github.com/stineje/sky130RHBDLib)
-- [University of Nebraska–Lincoln (UNL) Standard Cell Libraries for GF180](https://github.com/stineje/globalfoundries-pdk-libs-gf180mcu_osu_sc)
-  * [12-Track UNL GF180MCU Library](https://github.com/stineje/globalfoundries-pdk-libs-gf180mcu_osu_sc/tree/main/gf180mcu_osu_sc_gp12t3v3)
-  * [9-Track UNL GF180MCU Library](https://github.com/stineje/globalfoundries-pdk-libs-gf180mcu_osu_sc/tree/main/gf180mcu_osu_sc_gp9t3v3)  
+- University of Nebraska–Lincoln (UNL) Standard Cell Libraries for GF180
+  * [Main GitHub Repository](https://github.com/stineje/globalfoundries-pdk-libs-gf180mcu_osu_sc)
+  * [12-Track Library](https://github.com/stineje/globalfoundries-pdk-libs-gf180mcu_osu_sc/tree/main/gf180mcu_osu_sc_gp12t3v3)
+  * [9-Track Library](https://github.com/stineje/globalfoundries-pdk-libs-gf180mcu_osu_sc/tree/main/gf180mcu_osu_sc_gp9t3v3)  
 - [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders) - understanding prefix adders and sparsity better as well as HDL generation (a tool made by our Ph.D. candidate Teo Ene)
 - [Stick Diagramming Tool](https://stixu.io/) - made by Nick Overacker who took our VLSI class and made a super tool!
   * [Stick Diagramming Tool Source](https://github.com/NickOveracker/StickDiagrammer)
