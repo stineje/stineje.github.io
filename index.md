@@ -59,7 +59,7 @@ with this process.
 - [Stick Diagramming Tool](https://stixu.io/) - made by Nick Overacker who took our VLSI class and made a super tool!
   * [Stick Diagramming Tool Source](https://github.com/NickOveracker/StickDiagrammer)
 - [AES Implementations in SystemVerilog](https://github.com/Open-Source-Hardware-Initiative/AES) - open-source implementations of AES by our Ph.D. candidate Ryan Swann
-- [DES Implementations in SystemVerilog](https://github.com/stineje/DES) - open-source implementations in SystemVerilog for S-DES and DES used in Digital Logic Design courses at Oklahoma State University.
+- [DES Implementations in SystemVerilog](https://github.com/stineje/DES) - open-source implementations in SystemVerilog for S-DES and DES used in Digital Logic Design courses.
 - [Resources](pages/resources.html)
 
 If anything here is confusing (or _wrong_!), or if we have missed
