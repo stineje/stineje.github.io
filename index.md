@@ -58,7 +58,7 @@ with this process.
 - [Prefix Adder Generation](https://github.com/tdene/synth_opt_adders) - understanding prefix adders and sparsity better as well as HDL generation (a tool made by our Ph.D. candidate Teo Ene)
 - [Stick Diagramming Tool](https://stixu.io/) - made by Nick Overacker who took our VLSI class and made a super tool!
   * [Stick Diagramming Tool Source](https://github.com/NickOveracker/StickDiagrammer)
-- [AES Implementations in SystemVerilog](https://github.com/Open-Source-Hardware-Initiative/AES) - open-source implementations of AES by our Ph.D. candidate Ryan Swann
+- [AES Implementations in SystemVerilog](https://github.com/Open-Source-Hardware-Initiative/AES) - open-source implementations of AES by our Ph.D. graduate Ryan Swann
 - [DES Implementations in SystemVerilog](https://github.com/stineje/DES) - open-source implementations in SystemVerilog for S-DES and DES used in Digital Logic Design courses.
 - [Resources](pages/resources.html)
 
